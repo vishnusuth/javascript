@@ -9,3 +9,13 @@
 var x;
 
 
+// This declares a variables called "x"  but does not assign any value to it. You can also assign a value to a variable when you declare it, like this :-
+
+var x = 10;
+
+// in javascript you can also use the let and const keywords to declare variables. the let and const keywords to declare variables. the let keywword is used to declare a variables that can be reassigned later, while the const keyword is used to declare a variable that cannot be reassigned. for exaple:--
+
+let y = 20;
+let z = 30;
+
+// in this example, y is a variable that can be reassigned, while z is a constant that cannot be reassigned.
