@@ -46,3 +46,31 @@ console.log (a+b);
 let str1 = "hello "
 let str2 = "world"
 console.log(str1 + str2);
+
+//subtraction (-)
+//subtracts the right operand from the left operand.
+
+let aa = 10;
+let bb = 5;
+console.log(aa-bb);
+
+//mutiplication (*)
+// multiplies two numbers
+
+ let aaa = 10;
+ let bbb = 5;
+ console.log(aaa*bbb);
+
+ //division (/)
+ //division the left operand by the right operand 
+
+ let aaaa =10;
+ let bbbb =5;
+ console.log(aaaa/bbbb);
+
+ //modulus (%)
+ //return the remainder after division
+
+ let aaaaa = 10;
+ let bbbbb = 5;
+ console.log(aaaaa%bbbbb);
