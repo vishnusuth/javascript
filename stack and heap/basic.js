@@ -8,3 +8,16 @@ let anothermyname = myname;
 anothermyname = "vishnu";
 console.log(myname);
 console.log(anothermyname);
+
+let userOne = {
+    email : "user@gmail.com",
+    upi : "user@ybl",
+}
+
+let userTwo = userOne
+
+userTwo.email = "mansh@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
