@@ -5,4 +5,6 @@
 
 let myname = "manish";
 let anothermyname = myname;
+anothermyname = "vishnu";
+console.log(myname);
 console.log(anothermyname);
