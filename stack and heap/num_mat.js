@@ -27,7 +27,7 @@ console.log(Math.max(4,5,3,6)); // maxmium value laane ke liye
 console.log(Math.random()); // ye function 0.0 se 0 .1 ke bich ke sabhi number ko randomly dega
 console.log(Math.random()*10); // jo value 0.1 hai uss ko 1.1 meh convert kar dega
 console.log((Math.random()*10)+1) // ess ka use kar ke hum 0 ko avoid kar sakte hai
-console.loh(Math.floor(Math.random()*10)+1); // point ke baad ke number ko remove karne ke liyye\
+console.log(Math.floor(Math.random()*10)+1); // point ke baad ke number ko remove karne ke liyye\
 
 const min = 10
 const max = 20
