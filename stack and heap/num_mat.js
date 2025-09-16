@@ -21,7 +21,7 @@ console.log(Math.abs(-4)); // - sign ki value ko + meh convert karne ke liye
 console.log(Math.round(4.6)); // round of karne ke liye
 console.log(Math.ceil(4.2)); // + roundof meh hamesa + meh hii round off karegaa
 console.log(Math.floor(4.9)); // - roundof hhamesa - meh hii karegaa
-console.loh(Math.min(4.9,8,7)); // minium value laane ke liye
+console.log(Math.min(4.9,8,7)); // minium value laane ke liye
 console.log(Math.max(4,5,3,6)); // maxmium value laane ke liye
 
 console.log(Math.random()); // ye function 0.0 se 0 .1 ke bich ke sabhi number ko randomly dega
