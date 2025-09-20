@@ -11,7 +11,7 @@ function name() {
     console.log("s")
     console.log("h")
 }
-console.log()
+name()
 
 //Adding two Number in js using function
 
